@@ -1,14 +1,13 @@
-<!-- BEGIN MICROSOFT SECURITY.MD V0.0.9 BLOCK -->
-
-## Security
+* BEGIN MICROSOFT SECURITY.MD V0.0.9 BLOCK -->
+* Security
 
 Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet) and [Xamarin](https://github.com/xamarin).
 
 If you believe you have found a security vulnerability in any Microsoft-owned repository that meets [Microsoft's definition of a security vulnerability](https://aka.ms/security.md/definition), please report it to us as described below.
 
-## Reporting Security Issues
+* Reporting Security Issues
 
-**Please do not report security vulnerabilities through public GitHub issues.**
+*Please do not report security vulnerabilities through public GitHub issues.**
 
 Instead, please report them to the Microsoft Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://aka.ms/security.md/msrc/create-report).
 
@@ -18,10 +17,10 @@ You should receive a response within 24 hours. If for some reason you do not, pl
 
 Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
 
-  * Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
-  * Full paths of source file(s) related to the manifestation of the issue
-  * The location of the affected source code (tag/branch/commit or direct URL)
-  * Any special configuration required to reproduce the issue
+   Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
+   Full paths of source file(s) related to the manifestation of the issue
+   The location of the affected source code (tag/branch/commit or direct URL)
+Any special configuration required to reproduce the issue
   * Step-by-step instructions to reproduce the issue
   * Proof-of-concept or exploit code (if possible)
   * Impact of the issue, including how an attacker might exploit the issue
@@ -30,11 +29,51 @@ This information will help us triage your report more quickly.
 
 If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://aka.ms/security.md/msrc/bounty) page for more details about our active programs.
 
-## Preferred Languages
+ Preferred Languages
 
 We prefer all communications to be in English.
 
-## Policy
+##vsliv368:30146709
+vspor879:30202332
+vspor708:30202333
+vspor363:30204092
+vscod805cf:30301675
+binariesv615:30325510
+vsaa593:30376534
+py29gd2263:31024239
+c4g48928:30535728
+azure-dev_surveyonecf:30548226
+a9j8j154:30646983
+962ge761:30959799
+pythongtdpath:30769146
+welcomedialog:30910333
+pythonnoceb:30805159
+asynctok:30898717
+pythonregdiag2:30936856
+pythonmypyd1:30879173
+h48ei257:31000450
+pythontbext0:30879054
+accentitlementst:30995554
+dsvsc016:30899300
+dsvsc017:30899301
+dsvsc018:30899302
+cppperfnew:31000557
+dsvsc020:30976470
+pythonait:31006305
+dsvsc021:30996838
+da93g388:31013173
+pythoncenvpt:31062603
+a69g1124:31058053
+dvdeprecation:31068756
+dwnewjupytercf:31046870
+impr_priority:31102340
+refactort:31108082
+pythonrstrctxt:31112756
+flightc:31119335
+wkspc-onlycs-c:31111717
+wkspc-ranged-c:31123312
+ei213698:31121563
+Policy
 
 Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://aka.ms/security.md/cvd).
 
